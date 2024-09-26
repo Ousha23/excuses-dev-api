@@ -1,3 +1,7 @@
+## Summary
+
+API create and show randomly sentences
+
 ## Installation
 
 ```
@@ -16,3 +20,4 @@ $ npx prisma migrate dev
 
 ```
 $ yarn run start
+
